@@ -19,8 +19,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sakshipatare&show_icons=true&theme=radical)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatare&layout=compact&theme=radical)
-
 ---
 
 ## 🔥 Top Languages
