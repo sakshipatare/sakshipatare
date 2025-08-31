@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sakshi Patare  
 
-💻 Final-year Computer Science student at Savitribai Phule Pune University
+💻 Final-year Computer Engineering student at Savitribai Phule Pune University  
 🚀 Passionate about **Full-Stack Development** and **Software Engineering**
 
 ![](https://komarev.com/ghpvc/?username=sakshipatare&label=Profile%20Views&color=blue&style=flat)
