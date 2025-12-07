@@ -17,12 +17,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshipatare&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshipatare&show_icons=true&theme=radical&hide_border=true&count_private=true&token=YOUR_TOKEN)
 
 ---
 
 ## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatare&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatare&layout=compact&theme=radical&hide_border=true&count_private=true&token=YOUR_TOKEN)
 
 ---
 
@@ -31,4 +31,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/sakshipatare)
 
 ---
-
